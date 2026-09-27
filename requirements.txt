@@ -2,5 +2,4 @@ streamlit
 folium
 streamlit-folium
 networkx
-pandas
-scipy
+
